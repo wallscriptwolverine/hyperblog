@@ -6,5 +6,6 @@ En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo de Git
 * El verdadero amor por las buenas prácticas
+* Creado por el increíble YO
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para un ejemplo. NO LO TOMES EN SERIO.
