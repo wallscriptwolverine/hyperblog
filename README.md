@@ -6,7 +6,6 @@ En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo de Git
 * El verdadero amor por las buenas prácticas
-* Creado por el increíble YO
 * Incluye ejemplos
 * Disponible para todas las edades
 
